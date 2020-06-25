@@ -1,3 +1,5 @@
+(Solutions to all AAO projects are usually given).
+
 # Sudoku
 If you're not familiar with Sudoku, please review the [Wikipedia page](https://en.wikipedia.org/wiki/Sudoku) on the subject.
 
